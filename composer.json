@@ -3,11 +3,31 @@
     "description": "doudian lib",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "framework",
+        "laravel",
+        "laravel-admin"
+    ],
+    "authors": [
+        {
+            "name": "nicelizhi",
+            "email": "nice.lizhi@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0"
+    },
     "autoload": {
         "psr-4": {
             "Nicelizhi\\Doudian\\": "src/"
-        }
+        },
+        "classmap": [
+            "./libs/open/",
+            "./libs/autoload.php"
+        ]
     },
-    "minimum-stability": "beta",
-    "require": {}
+    "minimum-stability": "beta"
 }
