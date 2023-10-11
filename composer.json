@@ -25,8 +25,8 @@
             "Nicelizhi\\Doudian\\": "src/"
         },
         "classmap": [
-            "/libs/open/",
-            "/libs/autoload.php"
+            "libs/open/",
+            "libs/autoload.php"
         ]
     },
     "minimum-stability": "beta"
