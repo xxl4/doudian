@@ -1,0 +1,13 @@
+{
+    "name": "nicelizhi/doudian",
+    "description": "doudian lib",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nicelizhi\\Doudian\\": "src/"
+        }
+    },
+    "minimum-stability": "beta",
+    "require": {}
+}
