@@ -24,8 +24,7 @@
         "psr-4": {
             "Nicelizhi\\Doudian\\": "src/"
         },
-        "classmap": [
-            "libs/open/",
+        "files": [
             "libs/autoload.php"
         ]
     },
