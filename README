@@ -1,0 +1,21 @@
+# Doudian SDK For PHP
+> the libs code is from doudian open platform
+
+# How to Cover Code
+
+``
+cd shell/
+php shell.php // you need config your dir and namespace
+```
+
+
+# Install
+
+```
+composer require nicelizhi/doudian
+```
+
+# How To Use
+```
+use Nicelizhi\Doudian
+```
