@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Address_getProvince;
+ Namespace Nicelizhi\Doudian\open\api\address_getProvince;
 
 //auto generated code
 class AddressGetProvinceRequest

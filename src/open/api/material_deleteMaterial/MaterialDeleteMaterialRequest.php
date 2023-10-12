@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_deleteMaterial;
+ Namespace Nicelizhi\Doudian\open\api\material_deleteMaterial;
 
 //auto generated code
 class MaterialDeleteMaterialRequest

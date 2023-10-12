@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_uploadVideoAsync;
+ Namespace Nicelizhi\Doudian\open\api\material_uploadVideoAsync;
 
 //auto generated code
 class MaterialUploadVideoAsyncRequest

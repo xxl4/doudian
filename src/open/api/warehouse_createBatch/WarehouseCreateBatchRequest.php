@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Warehouse_createBatch;
+ Namespace Nicelizhi\Doudian\open\api\warehouse_createBatch;
 
 //auto generated code
 class WarehouseCreateBatchRequest

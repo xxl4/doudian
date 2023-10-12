@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\AfterSale_addOrderRemark\Param;
+ Namespace Nicelizhi\Doudian\open\api\afterSale_addOrderRemark\param;
 
 //auto generated code
 class AfterSaleAddOrderRemarkParam

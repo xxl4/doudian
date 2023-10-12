@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_getSettleBillDetailV2\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_getSettleBillDetailV2\param;
 
 //auto generated code
 class OrderGetSettleBillDetailV2Param

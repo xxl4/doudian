@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Product_detail;
+ Namespace Nicelizhi\Doudian\open\api\product_detail;
 
 //auto generated code
 class ProductDetailRequest

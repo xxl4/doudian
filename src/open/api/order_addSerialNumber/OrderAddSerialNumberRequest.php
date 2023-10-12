@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_addSerialNumber;
+ Namespace Nicelizhi\Doudian\open\api\order_addSerialNumber;
 
 //auto generated code
 class OrderAddSerialNumberRequest

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sku_syncStockBatch;
+ Namespace Nicelizhi\Doudian\open\api\sku_syncStockBatch;
 
 //auto generated code
 class SkuSyncStockBatchRequest

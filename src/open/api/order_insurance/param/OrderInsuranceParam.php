@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_insurance\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_insurance\param;
 
 //auto generated code
 class OrderInsuranceParam

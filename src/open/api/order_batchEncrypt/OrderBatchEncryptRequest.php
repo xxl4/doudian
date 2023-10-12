@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_batchEncrypt;
+ Namespace Nicelizhi\Doudian\open\api\order_batchEncrypt;
 
 //auto generated code
 class OrderBatchEncryptRequest

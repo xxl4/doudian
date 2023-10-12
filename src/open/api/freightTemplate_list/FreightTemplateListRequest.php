@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\FreightTemplate_list;
+ Namespace Nicelizhi\Doudian\open\api\freightTemplate_list;
 
 //auto generated code
 class FreightTemplateListRequest

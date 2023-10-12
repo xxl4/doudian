@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Warehouse_setAddrBatch;
+ Namespace Nicelizhi\Doudian\open\api\warehouse_setAddrBatch;
 
 //auto generated code
 class WarehouseSetAddrBatchRequest

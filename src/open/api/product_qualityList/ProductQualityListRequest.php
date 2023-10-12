@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Product_qualityList;
+ Namespace Nicelizhi\Doudian\open\api\product_qualityList;
 
 //auto generated code
 class ProductQualityListRequest

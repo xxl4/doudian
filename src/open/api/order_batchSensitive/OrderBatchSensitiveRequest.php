@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_batchSensitive;
+ Namespace Nicelizhi\Doudian\open\api\order_batchSensitive;
 
 //auto generated code
 class OrderBatchSensitiveRequest

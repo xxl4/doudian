@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Warehouse_createBatch\Param;
+ Namespace Nicelizhi\Doudian\open\api\warehouse_createBatch\param;
 
 //auto generated code
 class OutWarehouseList

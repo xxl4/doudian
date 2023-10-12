@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_downloadSettleItemToShop;
+ Namespace Nicelizhi\Doudian\open\api\order_downloadSettleItemToShop;
 
 //auto generated code
 class OrderDownloadSettleItemToShopRequest

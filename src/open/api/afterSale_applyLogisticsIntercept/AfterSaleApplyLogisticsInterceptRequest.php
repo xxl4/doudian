@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\AfterSale_applyLogisticsIntercept;
+ Namespace Nicelizhi\Doudian\open\api\afterSale_applyLogisticsIntercept;
 
 //auto generated code
 class AfterSaleApplyLogisticsInterceptRequest

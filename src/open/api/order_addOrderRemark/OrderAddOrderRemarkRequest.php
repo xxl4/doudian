@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_addOrderRemark;
+ Namespace Nicelizhi\Doudian\open\api\order_addOrderRemark;
 
 //auto generated code
 class OrderAddOrderRemarkRequest

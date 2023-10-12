@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Utils;
+ Namespace Nicelizhi\Doudian\open\utils;
 
 class SignUtil
 {
@@ -30,7 +30,7 @@ class SignUtil
                 $kstring = false;
             }
             if (is_array($v)) {
-                Nicelizhi\Doudian\Open\SignUtil::recKSort($v);
+                Nicelizhi\Doudian\open\SignUtil::recKSort($v);
             }
         }
         if ($kstring) {
@@ -45,7 +45,7 @@ class SignUtil
             return "{}";
         }
         $arr = self::objToArray($param);
-        Nicelizhi\Doudian\Open\SignUtil::recKSort($arr); // 对关联数组中的kv，执行排序，需要递归
+        Nicelizhi\Doudian\open\SignUtil::recKSort($arr); // 对关联数组中的kv，执行排序，需要递归
         return json_encode($arr, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE); // 重新序列化，确保所有key按字典序排序
     }
 

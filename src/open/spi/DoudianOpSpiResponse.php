@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Spi;
+ Namespace Nicelizhi\Doudian\open\spi;
 
 class DoudianOpSpiResponse
 {

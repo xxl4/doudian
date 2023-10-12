@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sku_detail;
+ Namespace Nicelizhi\Doudian\open\api\sku_detail;
 
 //auto generated code
 class SkuDetailRequest

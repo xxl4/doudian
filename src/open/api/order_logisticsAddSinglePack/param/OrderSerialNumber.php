@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_logisticsAddSinglePack\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_logisticsAddSinglePack\param;
 
 //auto generated code
 class OrderSerialNumber

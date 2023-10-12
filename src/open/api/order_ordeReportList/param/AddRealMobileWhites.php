@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_ordeReportList\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_ordeReportList\param;
 
 //auto generated code
 class AddRealMobileWhites

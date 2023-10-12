@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Product_qualityList\Param;
+ Namespace Nicelizhi\Doudian\open\api\product_qualityList\param;
 
 //auto generated code
 class ProductQualityListParam

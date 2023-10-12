@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\AfterSale_Operate;
+ Namespace Nicelizhi\Doudian\open\api\afterSale_Operate;
 
 //auto generated code
 class AfterSaleOperateRequest

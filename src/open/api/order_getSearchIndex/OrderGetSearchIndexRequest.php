@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_getSearchIndex;
+ Namespace Nicelizhi\Doudian\open\api\order_getSearchIndex;
 
 //auto generated code
 class OrderGetSearchIndexRequest

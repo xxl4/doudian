@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sms_template_delete\Param;
+ Namespace Nicelizhi\Doudian\open\api\sms_template_delete\param;
 
 //auto generated code
 class SmsTemplateDeleteParam

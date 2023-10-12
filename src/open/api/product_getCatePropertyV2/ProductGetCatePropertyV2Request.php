@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Product_getCatePropertyV2;
+ Namespace Nicelizhi\Doudian\open\api\product_getCatePropertyV2;
 
 //auto generated code
 class ProductGetCatePropertyV2Request

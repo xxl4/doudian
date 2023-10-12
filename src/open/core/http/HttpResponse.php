@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Core\Http;
+ Namespace Nicelizhi\Doudian\open\core\http;
 
 class HttpResponse
 {

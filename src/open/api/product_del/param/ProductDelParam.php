@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Product_del\Param;
+ Namespace Nicelizhi\Doudian\open\api\product_del\param;
 
 //auto generated code
 class ProductDelParam

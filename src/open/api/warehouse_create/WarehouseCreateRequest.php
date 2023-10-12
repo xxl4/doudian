@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Warehouse_create;
+ Namespace Nicelizhi\Doudian\open\api\warehouse_create;
 
 //auto generated code
 class WarehouseCreateRequest

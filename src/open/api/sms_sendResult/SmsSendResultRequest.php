@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sms_sendResult;
+ Namespace Nicelizhi\Doudian\open\api\sms_sendResult;
 
 //auto generated code
 class SmsSendResultRequest

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_editFolder\Param;
+ Namespace Nicelizhi\Doudian\open\api\material_editFolder\param;
 
 //auto generated code
 class MaterialEditFolderParam

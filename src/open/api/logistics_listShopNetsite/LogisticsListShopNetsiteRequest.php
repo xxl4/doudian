@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_listShopNetsite;
+ Namespace Nicelizhi\Doudian\open\api\logistics_listShopNetsite;
 
 //auto generated code
 class LogisticsListShopNetsiteRequest

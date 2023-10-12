@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_batchDecrypt;
+ Namespace Nicelizhi\Doudian\open\api\order_batchDecrypt;
 
 //auto generated code
 class OrderBatchDecryptRequest

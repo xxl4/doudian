@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\AfterSale_timeExtend;
+ Namespace Nicelizhi\Doudian\open\api\afterSale_timeExtend;
 
 //auto generated code
 class AfterSaleTimeExtendRequest

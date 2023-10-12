@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Warehouse_removeAddr\Param;
+ Namespace Nicelizhi\Doudian\open\api\warehouse_removeAddr\param;
 
 //auto generated code
 class WarehouseRemoveAddrParam

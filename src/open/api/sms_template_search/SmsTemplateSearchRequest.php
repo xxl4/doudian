@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sms_template_search;
+ Namespace Nicelizhi\Doudian\open\api\sms_template_search;
 
 //auto generated code
 class SmsTemplateSearchRequest

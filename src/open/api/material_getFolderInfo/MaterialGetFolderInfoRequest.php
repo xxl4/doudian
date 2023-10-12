@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_getFolderInfo;
+ Namespace Nicelizhi\Doudian\open\api\material_getFolderInfo;
 
 //auto generated code
 class MaterialGetFolderInfoRequest

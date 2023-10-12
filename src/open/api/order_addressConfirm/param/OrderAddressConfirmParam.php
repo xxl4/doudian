@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_addressConfirm\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_addressConfirm\param;
 
 //auto generated code
 class OrderAddressConfirmParam

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_createFolder\Param;
+ Namespace Nicelizhi\Doudian\open\api\material_createFolder\param;
 
 //auto generated code
 class MaterialCreateFolderParam

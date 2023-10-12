@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_uploadImageSync\Param;
+ Namespace Nicelizhi\Doudian\open\api\material_uploadImageSync\param;
 
 //auto generated code
 class MaterialUploadImageSyncParam

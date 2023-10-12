@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\AfterSale_submitEvidence\Param;
+ Namespace Nicelizhi\Doudian\open\api\afterSale_submitEvidence\param;
 
 //auto generated code
 class AfterSaleSubmitEvidenceParam

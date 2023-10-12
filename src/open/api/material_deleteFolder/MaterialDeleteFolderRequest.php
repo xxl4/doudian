@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_deleteFolder;
+ Namespace Nicelizhi\Doudian\open\api\material_deleteFolder;
 
 //auto generated code
 class MaterialDeleteFolderRequest

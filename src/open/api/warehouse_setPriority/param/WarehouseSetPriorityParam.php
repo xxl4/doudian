@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Warehouse_setPriority\Param;
+ Namespace Nicelizhi\Doudian\open\api\warehouse_setPriority\param;
 
 //auto generated code
 class WarehouseSetPriorityParam

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_recoverFolder\Param;
+ Namespace Nicelizhi\Doudian\open\api\material_recoverFolder\param;
 
 //auto generated code
 class MaterialRecoverFolderParam

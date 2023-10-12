@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Product_setOnline\Param;
+ Namespace Nicelizhi\Doudian\open\api\product_setOnline\param;
 
 //auto generated code
 class ProductSetOnlineParam

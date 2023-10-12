@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_logisticsAddSinglePack;
+ Namespace Nicelizhi\Doudian\open\api\order_logisticsAddSinglePack;
 
 //auto generated code
 class OrderLogisticsAddSinglePackRequest

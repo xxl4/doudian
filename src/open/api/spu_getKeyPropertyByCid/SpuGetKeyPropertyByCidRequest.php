@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Spu_getKeyPropertyByCid;
+ Namespace Nicelizhi\Doudian\open\api\spu_getKeyPropertyByCid;
 
 //auto generated code
 class SpuGetKeyPropertyByCidRequest

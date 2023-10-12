@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_getShopKey\Param;
+ Namespace Nicelizhi\Doudian\open\api\logistics_getShopKey\param;
 
 //auto generated code
 class LogisticsGetShopKeyParam

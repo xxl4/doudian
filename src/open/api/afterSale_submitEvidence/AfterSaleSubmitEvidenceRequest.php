@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\AfterSale_submitEvidence;
+ Namespace Nicelizhi\Doudian\open\api\afterSale_submitEvidence;
 
 //auto generated code
 class AfterSaleSubmitEvidenceRequest

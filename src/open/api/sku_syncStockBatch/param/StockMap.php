@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sku_syncStockBatch\Param;
+ Namespace Nicelizhi\Doudian\open\api\sku_syncStockBatch\param;
 
 //auto generated code
 class StockMap

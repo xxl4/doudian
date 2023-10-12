@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Antispam_userLogin;
+ Namespace Nicelizhi\Doudian\open\api\antispam_userLogin;
 
 //auto generated code
 class AntispamUserLoginRequest

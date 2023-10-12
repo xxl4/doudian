@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Brand_getSug\Param;
+ Namespace Nicelizhi\Doudian\open\api\brand_getSug\param;
 
 //auto generated code
 class FilterInfo

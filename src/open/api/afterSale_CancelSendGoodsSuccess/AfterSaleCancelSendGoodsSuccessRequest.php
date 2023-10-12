@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\AfterSale_CancelSendGoodsSuccess;
+ Namespace Nicelizhi\Doudian\open\api\afterSale_CancelSendGoodsSuccess;
 
 //auto generated code
 class AfterSaleCancelSendGoodsSuccessRequest

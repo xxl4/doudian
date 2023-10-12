@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Brand_list;
+ Namespace Nicelizhi\Doudian\open\api\brand_list;
 
 //auto generated code
 class BrandListRequest

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_policy;
+ Namespace Nicelizhi\Doudian\open\api\order_policy;
 
 //auto generated code
 class OrderPolicyRequest

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Antispam_orderSend;
+ Namespace Nicelizhi\Doudian\open\api\antispam_orderSend;
 
 //auto generated code
 class AntispamOrderSendRequest

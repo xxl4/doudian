@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_deliveryNotice\Param;
+ Namespace Nicelizhi\Doudian\open\api\logistics_deliveryNotice\param;
 
 //auto generated code
 class LogisticsDeliveryNoticeParam

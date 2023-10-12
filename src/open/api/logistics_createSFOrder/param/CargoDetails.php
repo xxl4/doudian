@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_createSFOrder\Param;
+ Namespace Nicelizhi\Doudian\open\api\logistics_createSFOrder\param;
 
 //auto generated code
 class CargoDetails

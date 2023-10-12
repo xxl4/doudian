@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Address_create;
+ Namespace Nicelizhi\Doudian\open\api\address_create;
 
 //auto generated code
 class AddressCreateRequest

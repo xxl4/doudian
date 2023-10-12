@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_getShopAccountItem\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_getShopAccountItem\param;
 
 //auto generated code
 class OrderGetShopAccountItemParam

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_addressModify\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_addressModify\param;
 
 //auto generated code
 class Province

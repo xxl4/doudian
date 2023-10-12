@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_recoverMaterial;
+ Namespace Nicelizhi\Doudian\open\api\material_recoverMaterial;
 
 //auto generated code
 class MaterialRecoverMaterialRequest

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sms_template_revoke\Param;
+ Namespace Nicelizhi\Doudian\open\api\sms_template_revoke\param;
 
 //auto generated code
 class SmsTemplateRevokeParam

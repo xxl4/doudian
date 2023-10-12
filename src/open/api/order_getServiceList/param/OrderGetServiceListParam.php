@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_getServiceList\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_getServiceList\param;
 
 //auto generated code
 class OrderGetServiceListParam

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Product_editV2\Param;
+ Namespace Nicelizhi\Doudian\open\api\product_editV2\param;
 
 //auto generated code
 class QualityAttachments

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\AfterSale_rejectReasonCodeList;
+ Namespace Nicelizhi\Doudian\open\api\afterSale_rejectReasonCodeList;
 
 //auto generated code
 class AfterSaleRejectReasonCodeListRequest

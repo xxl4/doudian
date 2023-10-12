@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Promise_setSkuShipTime;
+ Namespace Nicelizhi\Doudian\open\api\promise_setSkuShipTime;
 
 //auto generated code
 class PromiseSetSkuShipTimeRequest

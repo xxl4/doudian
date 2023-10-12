@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\AfterSale_List;
+ Namespace Nicelizhi\Doudian\open\api\afterSale_List;
 
 //auto generated code
 class AfterSaleListRequest

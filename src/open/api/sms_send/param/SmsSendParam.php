@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sms_send\Param;
+ Namespace Nicelizhi\Doudian\open\api\sms_send\param;
 
 //auto generated code
 class SmsSendParam

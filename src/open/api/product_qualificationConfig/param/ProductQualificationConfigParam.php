@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Product_qualificationConfig\Param;
+ Namespace Nicelizhi\Doudian\open\api\product_qualificationConfig\param;
 
 //auto generated code
 class ProductQualificationConfigParam

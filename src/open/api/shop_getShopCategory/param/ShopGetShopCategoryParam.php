@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Shop_getShopCategory\Param;
+ Namespace Nicelizhi\Doudian\open\api\shop_getShopCategory\param;
 
 //auto generated code
 class ShopGetShopCategoryParam

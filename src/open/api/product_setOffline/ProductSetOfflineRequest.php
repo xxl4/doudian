@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Product_setOffline;
+ Namespace Nicelizhi\Doudian\open\api\product_setOffline;
 
 //auto generated code
 class ProductSetOfflineRequest

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_searchFolder\Param;
+ Namespace Nicelizhi\Doudian\open\api\material_searchFolder\param;
 
 //auto generated code
 class MaterialSearchFolderParam

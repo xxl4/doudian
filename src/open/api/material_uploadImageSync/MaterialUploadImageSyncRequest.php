@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_uploadImageSync;
+ Namespace Nicelizhi\Doudian\open\api\material_uploadImageSync;
 
 //auto generated code
 class MaterialUploadImageSyncRequest

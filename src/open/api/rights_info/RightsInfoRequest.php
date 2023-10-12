@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Rights_info;
+ Namespace Nicelizhi\Doudian\open\api\rights_info;
 
 //auto generated code
 class RightsInfoRequest

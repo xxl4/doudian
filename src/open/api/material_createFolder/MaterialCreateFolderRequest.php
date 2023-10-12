@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_createFolder;
+ Namespace Nicelizhi\Doudian\open\api\material_createFolder;
 
 //auto generated code
 class MaterialCreateFolderRequest

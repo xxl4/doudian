@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Token_create\Param;
+ Namespace Nicelizhi\Doudian\open\api\token_create\param;
 
 //auto generated code
 class TokenCreateParam

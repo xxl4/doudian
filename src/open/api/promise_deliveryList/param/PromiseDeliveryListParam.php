@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Promise_deliveryList\Param;
+ Namespace Nicelizhi\Doudian\open\api\promise_deliveryList\param;
 
 //auto generated code
 class PromiseDeliveryListParam

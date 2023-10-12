@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_trackNoRouteDetail\Param;
+ Namespace Nicelizhi\Doudian\open\api\logistics_trackNoRouteDetail\param;
 
 //auto generated code
 class LogisticsTrackNoRouteDetailParam

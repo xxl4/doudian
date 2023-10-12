@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_BatchSearchIndex\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_BatchSearchIndex\param;
 
 //auto generated code
 class OrderBatchSearchIndexParam

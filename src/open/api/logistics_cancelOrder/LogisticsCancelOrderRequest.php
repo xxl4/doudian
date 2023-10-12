@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_cancelOrder;
+ Namespace Nicelizhi\Doudian\open\api\logistics_cancelOrder;
 
 //auto generated code
 class LogisticsCancelOrderRequest

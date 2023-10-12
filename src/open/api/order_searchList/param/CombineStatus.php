@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_searchList\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_searchList\param;
 
 //auto generated code
 class CombineStatus

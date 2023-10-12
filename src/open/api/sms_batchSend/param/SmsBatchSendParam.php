@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sms_batchSend\Param;
+ Namespace Nicelizhi\Doudian\open\api\sms_batchSend\param;
 
 //auto generated code
 class SmsBatchSendParam

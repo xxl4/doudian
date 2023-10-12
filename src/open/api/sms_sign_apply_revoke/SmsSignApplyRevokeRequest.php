@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sms_sign_apply_revoke;
+ Namespace Nicelizhi\Doudian\open\api\sms_sign_apply_revoke;
 
 //auto generated code
 class SmsSignApplyRevokeRequest

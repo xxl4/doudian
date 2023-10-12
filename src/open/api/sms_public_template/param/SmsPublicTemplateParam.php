@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sms_public_template\Param;
+ Namespace Nicelizhi\Doudian\open\api\sms_public_template\param;
 
 //auto generated code
 class SmsPublicTemplateParam

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Token_refresh;
+ Namespace Nicelizhi\Doudian\open\api\token_refresh;
 
 //auto generated code
 class TokenRefreshRequest

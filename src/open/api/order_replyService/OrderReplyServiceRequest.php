@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_replyService;
+ Namespace Nicelizhi\Doudian\open\api\order_replyService;
 
 //auto generated code
 class OrderReplyServiceRequest

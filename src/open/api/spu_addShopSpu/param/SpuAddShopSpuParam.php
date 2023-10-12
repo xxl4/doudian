@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Spu_addShopSpu\Param;
+ Namespace Nicelizhi\Doudian\open\api\spu_addShopSpu\param;
 
 //auto generated code
 class SpuAddShopSpuParam

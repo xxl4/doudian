@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_getOutRange;
+ Namespace Nicelizhi\Doudian\open\api\logistics_getOutRange;
 
 //auto generated code
 class LogisticsGetOutRangeRequest

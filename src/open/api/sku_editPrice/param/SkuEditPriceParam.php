@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sku_editPrice\Param;
+ Namespace Nicelizhi\Doudian\open\api\sku_editPrice\param;
 
 //auto generated code
 class SkuEditPriceParam

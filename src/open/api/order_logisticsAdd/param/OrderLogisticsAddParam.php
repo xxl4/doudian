@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_logisticsAdd\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_logisticsAdd\param;
 
 //auto generated code
 class OrderLogisticsAddParam

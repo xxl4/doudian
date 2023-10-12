@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Address_update;
+ Namespace Nicelizhi\Doudian\open\api\address_update;
 
 //auto generated code
 class AddressUpdateRequest

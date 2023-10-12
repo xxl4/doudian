@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_batchDecrypt\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_batchDecrypt\param;
 
 //auto generated code
 class CipherInfos

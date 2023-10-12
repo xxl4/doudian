@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Antispam_orderQuery\Param;
+ Namespace Nicelizhi\Doudian\open\api\antispam_orderQuery\param;
 
 //auto generated code
 class AntispamOrderQueryParam

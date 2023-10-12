@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Spu_getSpuTpl\Param;
+ Namespace Nicelizhi\Doudian\open\api\spu_getSpuTpl\param;
 
 //auto generated code
 class SpuGetSpuTplParam

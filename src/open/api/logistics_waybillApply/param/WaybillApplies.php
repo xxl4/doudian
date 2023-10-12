@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_waybillApply\Param;
+ Namespace Nicelizhi\Doudian\open\api\logistics_waybillApply\param;
 
 //auto generated code
 class WaybillApplies

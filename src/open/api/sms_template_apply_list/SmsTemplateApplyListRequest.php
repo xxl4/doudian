@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sms_template_apply_list;
+ Namespace Nicelizhi\Doudian\open\api\sms_template_apply_list;
 
 //auto generated code
 class SmsTemplateApplyListRequest

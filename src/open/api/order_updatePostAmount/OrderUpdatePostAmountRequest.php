@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_updatePostAmount;
+ Namespace Nicelizhi\Doudian\open\api\order_updatePostAmount;
 
 //auto generated code
 class OrderUpdatePostAmountRequest

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Core;
+ Namespace Nicelizhi\Doudian\open\core;
 
 class AccessToken
 {

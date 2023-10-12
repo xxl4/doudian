@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Warehouse_setAddr\Param;
+ Namespace Nicelizhi\Doudian\open\api\warehouse_setAddr\param;
 
 //auto generated code
 class WarehouseSetAddrParam

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_newCreateOrder;
+ Namespace Nicelizhi\Doudian\open\api\logistics_newCreateOrder;
 
 //auto generated code
 class LogisticsNewCreateOrderRequest

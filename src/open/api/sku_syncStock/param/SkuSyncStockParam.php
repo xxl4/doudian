@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sku_syncStock\Param;
+ Namespace Nicelizhi\Doudian\open\api\sku_syncStock\param;
 
 //auto generated code
 class SkuSyncStockParam

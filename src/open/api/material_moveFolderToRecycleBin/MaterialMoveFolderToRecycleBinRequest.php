@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_moveFolderToRecycleBin;
+ Namespace Nicelizhi\Doudian\open\api\material_moveFolderToRecycleBin;
 
 //auto generated code
 class MaterialMoveFolderToRecycleBinRequest

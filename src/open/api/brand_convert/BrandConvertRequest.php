@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Brand_convert;
+ Namespace Nicelizhi\Doudian\open\api\brand_convert;
 
 //auto generated code
 class BrandConvertRequest

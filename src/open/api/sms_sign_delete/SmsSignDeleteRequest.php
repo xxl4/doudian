@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sms_sign_delete;
+ Namespace Nicelizhi\Doudian\open\api\sms_sign_delete;
 
 //auto generated code
 class SmsSignDeleteRequest

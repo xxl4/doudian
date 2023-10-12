@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Product_editV2;
+ Namespace Nicelizhi\Doudian\open\api\product_editV2;
 
 //auto generated code
 class ProductEditV2Request

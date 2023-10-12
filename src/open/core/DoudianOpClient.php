@@ -1,22 +1,22 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Core;
+ Namespace Nicelizhi\Doudian\open\core;
 
 class DoudianOpClient
 {
     private $httpClient;
     function __construct() {
-        $this->httpClient = Nicelizhi\Doudian\Open\Core\Http\HttpClient::getInstance();
+        $this->httpClient = Nicelizhi\Doudian\open\Core\Http\HttpClient::getInstance();
     }
 
     public function request($request, $accessToken) {
         $config = $request->getConfig();
         $urlPath = $request->getUrlPath();
         $method = $this->getMethod($urlPath);
-        $paramJson = Nicelizhi\Doudian\Open\SignUtil::marshal($request->getParam());
+        $paramJson = Nicelizhi\Doudian\open\SignUtil::marshal($request->getParam());
         $appKey = $config->appKey;
         $appSecret = $config->appSecret;
         $timestamp = time();
-        $sign = Nicelizhi\Doudian\Open\SignUtil::sign($appKey, $appSecret, $method, $timestamp, $paramJson);
+        $sign = Nicelizhi\Doudian\open\SignUtil::sign($appKey, $appSecret, $method, $timestamp, $paramJson);
         $openHost = $config->openRequestUrl;
         $accessTokenStr = "";
         if($accessToken != null) {

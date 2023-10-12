@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Spi;
+ Namespace Nicelizhi\Doudian\open\spi;
 
 
 class DoudianOpSpiClient
@@ -15,10 +15,10 @@ class DoudianOpSpiClient
 
         //将string类型的paramJson转成数组
         $paramJsonArray = json_decode($request->getSpiParam()->paramJson);
-        $sortedParamJson = Nicelizhi\Doudian\Open\SignUtil::marshal($paramJsonArray);
+        $sortedParamJson = Nicelizhi\Doudian\open\SignUtil::marshal($paramJsonArray);
         $signMethodNumber = $signMethod == 'hmac-sha256' ? 2 : 1;
         //验证签名
-        $calcSign = Nicelizhi\Doudian\Open\SignUtil::spiSign($appKey, $appSecret, $timestamp, $sortedParamJson, $signMethodNumber);
+        $calcSign = Nicelizhi\Doudian\open\SignUtil::spiSign($appKey, $appSecret, $timestamp, $sortedParamJson, $signMethodNumber);
         print $calcSign . "\n";
         if ($sign != $calcSign) {
             $response->code = 100001;

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Product_auditList\Param;
+ Namespace Nicelizhi\Doudian\open\api\product_auditList\param;
 
 class ProductAuditListParam
 {

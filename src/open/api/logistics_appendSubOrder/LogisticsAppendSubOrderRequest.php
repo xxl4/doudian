@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_appendSubOrder;
+ Namespace Nicelizhi\Doudian\open\api\logistics_appendSubOrder;
 
 //auto generated code
 class LogisticsAppendSubOrderRequest

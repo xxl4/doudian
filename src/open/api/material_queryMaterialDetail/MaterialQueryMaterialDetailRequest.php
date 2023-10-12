@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Material_queryMaterialDetail;
+ Namespace Nicelizhi\Doudian\open\api\material_queryMaterialDetail;
 
 //auto generated code
 class MaterialQueryMaterialDetailRequest

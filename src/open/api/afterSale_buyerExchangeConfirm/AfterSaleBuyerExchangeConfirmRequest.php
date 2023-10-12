@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\AfterSale_buyerExchangeConfirm;
+ Namespace Nicelizhi\Doudian\open\api\afterSale_buyerExchangeConfirm;
 
 //auto generated code
 class AfterSaleBuyerExchangeConfirmRequest

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Warehouse_list\Param;
+ Namespace Nicelizhi\Doudian\open\api\warehouse_list\param;
 
 //auto generated code
 class Addr

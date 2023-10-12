@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_cancelOrder\Param;
+ Namespace Nicelizhi\Doudian\open\api\logistics_cancelOrder\param;
 
 //auto generated code
 class LogisticsCancelOrderParam

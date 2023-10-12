@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_createSFOrder;
+ Namespace Nicelizhi\Doudian\open\api\logistics_createSFOrder;
 
 //auto generated code
 class LogisticsCreateSFOrderRequest

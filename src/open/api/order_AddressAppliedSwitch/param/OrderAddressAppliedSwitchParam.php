@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Order_AddressAppliedSwitch\Param;
+ Namespace Nicelizhi\Doudian\open\api\order_AddressAppliedSwitch\param;
 
 //auto generated code
 class OrderAddressAppliedSwitchParam

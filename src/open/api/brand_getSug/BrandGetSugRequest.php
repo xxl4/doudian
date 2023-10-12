@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Brand_getSug;
+ Namespace Nicelizhi\Doudian\open\api\brand_getSug;
 
 //auto generated code
 class BrandGetSugRequest

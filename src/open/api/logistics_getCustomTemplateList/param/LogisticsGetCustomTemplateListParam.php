@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Logistics_getCustomTemplateList\Param;
+ Namespace Nicelizhi\Doudian\open\api\logistics_getCustomTemplateList\param;
 
 //auto generated code
 class LogisticsGetCustomTemplateListParam

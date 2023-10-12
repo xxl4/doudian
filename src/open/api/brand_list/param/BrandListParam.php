@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Brand_list\Param;
+ Namespace Nicelizhi\Doudian\open\api\brand_list\param;
 
 //auto generated code
 class BrandListParam

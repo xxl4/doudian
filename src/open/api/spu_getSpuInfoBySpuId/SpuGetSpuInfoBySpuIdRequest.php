@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Spu_getSpuInfoBySpuId;
+ Namespace Nicelizhi\Doudian\open\api\spu_getSpuInfoBySpuId;
 
 //auto generated code
 class SpuGetSpuInfoBySpuIdRequest

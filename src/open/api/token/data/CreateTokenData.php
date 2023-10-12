@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Token\Data;
+ Namespace Nicelizhi\Doudian\open\api\token\data;
 
 class CreateTokenData
 {

@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Sms_sign_apply;
+ Namespace Nicelizhi\Doudian\open\api\sms_sign_apply;
 
 //auto generated code
 class SmsSignApplyRequest

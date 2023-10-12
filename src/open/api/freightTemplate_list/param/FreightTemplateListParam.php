@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\FreightTemplate_list\Param;
+ Namespace Nicelizhi\Doudian\open\api\freightTemplate_list\param;
 
 //auto generated code
 class FreightTemplateListParam

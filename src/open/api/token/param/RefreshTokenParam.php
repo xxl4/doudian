@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Token\Param;
+ Namespace Nicelizhi\Doudian\open\api\token\param;
 
 class RefreshTokenParam
 {

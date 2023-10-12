@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Address_areaList;
+ Namespace Nicelizhi\Doudian\open\api\address_areaList;
 
 //auto generated code
 class AddressAreaListRequest

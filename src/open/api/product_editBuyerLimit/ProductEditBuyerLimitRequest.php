@@ -1,5 +1,5 @@
 <?php 
- Namespace Nicelizhi\Doudian\Open\Api\Product_editBuyerLimit;
+ Namespace Nicelizhi\Doudian\open\api\product_editBuyerLimit;
 
 //auto generated code
 class ProductEditBuyerLimitRequest
