@@ -1,7 +1,7 @@
 <?php
 $dir = __DIR__."/../libs/src/open";
 $target = __DIR__."/../src/open";
-$namespace = "Nicelizhi\\Doudian\\Open\\";
+$namespace = "Nicelizhi\\Doudian\\open\\";
 
 function list_file($date, $target){
     global $namespace;
@@ -66,7 +66,8 @@ function get_ext_namespace($path) {
         }
 
         if($add==1) {
-            $ret[] = ucfirst($p_arr);
+            $ret[] = $p_arr;
+            //$ret[] = ucfirst($p_arr);
         }
         
     }
